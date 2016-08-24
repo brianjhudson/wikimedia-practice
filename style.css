@@ -18,6 +18,9 @@ header {
   font-size: 1.25em;
   line-height: 1.5em;
 }
+.mission {
+  margin-bottom: 20px;
+}
 .welcome  {
   text-align: right;
   font-weight: bold;
